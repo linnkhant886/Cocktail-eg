@@ -8,7 +8,7 @@ import Error from "./Pages/Error";
 
 const App = () => {
   return (
-    <div className=" bg-teal-100">
+    <div className=" bg-slate-200">
       <Navbar />
 
       {/* <h1 className="text-3xl font-bold text-red-500">Hello world!</h1> */}
